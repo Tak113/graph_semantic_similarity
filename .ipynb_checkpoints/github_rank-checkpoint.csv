@@ -1,0 +1,7 @@
+Metric,Weight,,,
+# of Repos Norm,50%,,,
+Centrality Norm,10%,,,
+Degree Norm,10%,,,
+Fork Norm,10%,,,
+Watcher Norm,10%,,,
+# of Repos Norm,10%,,,
